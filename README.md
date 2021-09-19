@@ -81,7 +81,7 @@ failures, being in December.
 Based on the above goal analysis, Louise’s highest possibility of success would be for a goal of under $15,000. As Louise set a funding goal of $10,000 and is close to reaching 
 that goal, Louise will have the best possibility of success if she sticks to a $10,000 or less funding goal.
 
-## Data set limitations
+## Data Set limitations
 
 A few data limitations with this data set were if the data set was a fair representation of the population and if we were working with “clean data”
 
@@ -104,7 +104,7 @@ Having pulled the Kickstarter data from the Kickstarter database we cannot contr
 get the proper launch and deadline dates to pull correctly and saw through our outcomes based on goals analysis the data contained outliers. Additionally, our total data set 
 has launch dates between 2009-2017, however, or play dates were clustered between the 3 years of 2014-2016, as shown below in the Data set Dates table.
 
-![Data set Dates]( https://github.com/lmacera/Kickstarter-Analysis/blob/main/Secondary%20Resources/Data set%20Dates.PNG )
+![Data set Dates]( https://github.com/lmacera/Kickstarter-Analysis/blob/main/Secondary%20Resources/Dataset%20Dates.PNG )
 
 	
 ## Additional Measures
